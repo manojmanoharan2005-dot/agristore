@@ -1,0 +1,13 @@
+/* App-level styles */
+.page-container {
+  width: min(99vw, 1960px);
+  margin: 0 auto;
+  padding: 0 0.9rem;
+}
+
+@media (min-width: 1536px) {
+  .page-container {
+    width: min(99vw, 2048px);
+    padding: 0 0.9rem;
+  }
+}

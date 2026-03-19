@@ -1,0 +1,37 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Farmer and warehouse illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3AA44A"/>
+      <stop offset="1" stop-color="#2D7F36"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="400" x2="800" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A5A31"/>
+      <stop offset="1" stop-color="#5B4222"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="520" rx="22" fill="url(#bg)"/>
+  <rect y="388" width="800" height="132" fill="url(#ground)"/>
+
+  <rect x="56" y="114" width="290" height="250" rx="10" fill="#286F30" stroke="#194E21" stroke-width="3"/>
+  <rect x="68" y="126" width="266" height="106" rx="6" fill="#9BD05F"/>
+  <rect x="86" y="248" width="74" height="56" rx="8" fill="#B38B47"/>
+  <rect x="170" y="248" width="74" height="56" rx="8" fill="#B38B47"/>
+  <rect x="254" y="248" width="74" height="56" rx="8" fill="#B38B47"/>
+
+  <circle cx="516" cy="252" r="84" fill="#F1D0A5"/>
+  <path d="M438 216C454 176 489 152 532 154C575 156 607 180 620 218C616 250 577 274 529 276C483 278 447 257 438 216Z" fill="#B97B3F"/>
+  <rect x="474" y="322" width="86" height="116" rx="22" fill="#3A698B"/>
+  <rect x="436" y="346" width="162" height="56" rx="20" fill="#2E5A79"/>
+
+  <rect x="430" y="356" width="58" height="40" rx="6" fill="#5E839E"/>
+  <rect x="430" y="362" width="58" height="8" fill="#BFE0F5"/>
+  <rect x="516" y="242" width="22" height="18" rx="4" fill="#2B2B2B"/>
+  <circle cx="520" cy="252" r="5" fill="#0D0D0D"/>
+  <circle cx="556" cy="252" r="5" fill="#0D0D0D"/>
+  <path d="M522 278C533 286 547 286 558 278" stroke="#8D4F33" stroke-width="5" stroke-linecap="round"/>
+
+  <circle cx="652" cy="86" r="26" fill="#FFDA66"/>
+  <rect x="628" y="355" width="66" height="82" rx="12" fill="#A9733D"/>
+  <rect x="648" y="337" width="26" height="26" rx="8" fill="#6AAF41"/>
+</svg>
